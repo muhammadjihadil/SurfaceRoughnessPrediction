@@ -1,5 +1,6 @@
 # Created by: Muhammad Jihadil (jihadil003@gmail.com) 
 # This code was write in Python 3.9
+# This code will create machine learning model with Random Forest learning algorithm
 
 # Publication link: https://digilib.itb.ac.id/index.php/gdl/view/61731/
 # Full document of research (Indonesian): https://drive.google.com/file/d/11mNiniTwni6MafxhKD4aNdwxpY4vRQ_5/view?usp=share_link 
